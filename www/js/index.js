@@ -43,7 +43,7 @@ var app = {
 
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
-        alert('hello!');
+        alert('hello! step 2???');
 
         console.log('Received Event: ' + id);
     }
